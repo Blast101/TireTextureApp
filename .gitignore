@@ -10,6 +10,7 @@
 !/app.py
 !/model3.hdf5
 !/requirements.txt
+!/runtime.txt
 
 # Explicitly ignore these files (already covered by /*, but listed for clarity)
 /app_test.py
