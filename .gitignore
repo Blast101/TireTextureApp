@@ -12,6 +12,7 @@
 !/requirements.txt
 !/runtime.txt
 !/README.md
+!/DEPLOYMENT.md
 
 # Explicitly ignore these files (already covered by /*, but listed for clarity)
 /app_test.py
